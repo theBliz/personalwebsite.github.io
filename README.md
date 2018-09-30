@@ -1,2 +1,2 @@
-# personalwebsite.github.io
+# thebliz.github.io
 my personal website
